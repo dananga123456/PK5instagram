@@ -1,0 +1,65 @@
+
+
+
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #f2f2f2; 
+}
+
+hr{ 
+    color : #6a120b;
+    border : solid 1px;
+}
+
+button{
+	background-color: #6a120b;
+	color: white;
+	border : solid #6a120b 1px;
+	padding: 7px 10px;	
+	margin: 10px 0px;
+	width: 250px;
+	transition: background-color .4s;
+}
+
+button:hover{
+	cursor: pointer;
+	background-color: #eb2313;
+}
+
+input{
+	margin: 3px 0px;
+	width: 230px;
+	padding: 5px 10px;
+}
+
+h1{
+	font-family: billabong;
+	font-size: 48px;
+    color : #ae1409;
+}
+
+h3{
+	font-family: "Roboto", "Calibri";
+}
+
+h3, p{
+	color: #999;
+}
+
+#form{
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.content{
+	margin: 0 auto;
+	background-color: white;
+	padding: 50px 0px;
+	width: 30%;
+	text-align: center;
+	margin-top: 100px;
+    margin-bottom : 100px;
+	box-shadow: 0px 0px 2px grey;
+}
